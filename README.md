@@ -44,7 +44,7 @@ Using `SentenceTransformer (all-MiniLM-L6-v2)` to convert input text into vector
 Using `TinyLlama-1.1B-Chat-v1.0` to generate contextual, domain-aware answers during the response phase.
 
 ### 🛠 Fine-Tuning
-Models have been fine-tuned on internal security QnA pairs and policy documents to ensure precision and contextuality in responses.
+Models have been fine-tuned on internal security QnA pairs and policy documents to ensure precision and contextuality in responses with Parameter-Efficent LoRA.
 
 ---
 
