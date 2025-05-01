@@ -120,4 +120,8 @@ We welcome contributions! Please fork the repo and create a PR. For major change
 
 ## 👤 Author
 
-Built by [@b1nay](https://github.com/b1nay)
+Built by
+[@b1nay](https://github.com/b1nay)
+[@rosotron](https://github.com/rosotron)
+[@bvrvl](https://github.com/bvrvl)
+
