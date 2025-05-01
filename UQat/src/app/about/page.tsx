@@ -40,7 +40,7 @@ export default function AboutPage() {
     },
     {
       name: "Binit Bhattarai",
-      role: "Senior Researcher: LLMs and SpeechAI",
+      role: "Researcher: LLMs and SpeechAI",
       institution: "Vellore Institute of Technology, India",
       emoji: "🧠",
       links: {
