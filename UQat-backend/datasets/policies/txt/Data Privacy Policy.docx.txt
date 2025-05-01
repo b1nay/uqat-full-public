@@ -1,0 +1,153 @@
+Data Privacy Policy
+Effective
+Approved by Signature
+Date
+Legal and Compliance Official Legal and Compliance Team
+03/11/2025
+Team Approved
+1. Introduction
+DanfeCorp is committed to protecting and respecting your privacy. This policy explains
+how we collect, use, disclose, and safeguard your personal data in compliance with
+applicable data protection laws. Our aim is to ensure transparency and provide
+individuals with control over their personal information.
+2. Definitions
+
+--- TABLES ---
+Approved by	Signature	Effective
+Date
+Legal and Compliance
+Team	Official Legal and Compliance Team
+Approved	03/11/2025
+
+3. What Personal Data We Collect
+DanfeCorp may collect the following types of personal data:
+● Contact Information: Full name, email address, phone number, company name,
+job title.
+● Payment Information: Credit card details and billing information for customers
+and partners.
+● User Data: Information related to interactions with our products and services,
+including usage logs, user preferences, and IP addresses.
+● Communication Data: Correspondence with DanfeCorp, including emails,
+feedback, and customer support inquiries.
+4. How We Collect Personal Data
+DanfeCorp employs multiple methodologies for collecting personal data through various
+touchpoints throughout the customer journey. Our primary collection method involves
+direct acquisition from individuals when they interact with our digital properties or
+services. This includes data provided during account registration processes, product
+purchases, newsletter subscriptions, feedback submission forms, customer support
+interactions, and other direct engagements with our platforms. Additionally, our systems
+automatically collect certain technical information through the implementation of
+cookies, web beacons, pixel tags, and similar tracking technologies when users visit our
+website or utilize our online services. These technologies enable us to analyze user
+behavior, optimize site performance, and deliver personalized experiences. We may
+also receive personal data through third-party channels, including our authorized
+payment processors, marketing partners, advertising networks, and business
+associates who have obtained appropriate permissions to share such information with
+us. All data collection activities strictly adhere to applicable data protection regulations,
+with particular attention to transparency requirements and the legal basis for processing
+in each jurisdiction where we operate.
+5. Purposes for Processing Personal Data
+DanfeCorp processes personal data for several purposes, including:
+● Provision of Services: To deliver and maintain our services, including customer
+support, billing, and account management.
+
+--- TABLES ---
+● Provision of Services: To deliver and maintain our services, including customer
+support, billing, and account management.
+
+● Marketing and Communication: To send promotional materials, newsletters,
+and updates related to our products or services (with an option to opt-out).
+● Contractual Obligations: To fulfill our contractual commitments with customers,
+vendors, or partners.
+● Legal Compliance: To meet legal and regulatory requirements, including
+financial reporting, audits, and anti-money laundering regulations.
+● Security and Fraud Prevention: To detect, prevent, and mitigate fraud or
+security risks, ensuring the overall security of our services.
+6. Legal Basis for Processing
+Under applicable data protection laws, we process personal data based on the following
+legal grounds:
+● Consent: Where you have provided explicit consent for specific purposes (e.g.,
+marketing communications).
+● Contractual Necessity: When processing is necessary for the performance of a
+contract, such as providing our services.
+● Legal Obligation: When processing is required to comply with legal obligations
+(e.g., financial or tax requirements).
+● Legitimate Interests: When processing is necessary for our legitimate interests,
+such as enhancing service security and customer experience, provided these
+interests do not override your rights.
+7. How We Protect Your Personal Data
+DanfeCorp implements a comprehensive, multi-layered security framework designed to
+protect personal data throughout its lifecycle within our systems. Our approach
+combines advanced technical measures with robust organizational safeguards to
+prevent unauthorized access, disclosure, alteration, and destruction of sensitive
+information. We employ industry-standard encryption protocols for both data in transit
+and at rest, ensuring that information remains protected whether it's being transmitted
+across networks or stored in our databases and backup systems. Our security
+infrastructure includes sophisticated access control mechanisms that strictly limit data
+access to authorized personnel based on job responsibilities and the principle of least
+privilege, with regular permission reviews and updates as roles change. All access
+attempts are logged and monitored through automated systems that can detect and
+alert security personnel to unusual or potentially malicious activities. Our commitment to
+data security extends to regular and rigorous security audits, vulnerability assessments,
+and penetration testing conducted by both internal teams and independent security
+specialists to identify and address potential weaknesses before they can be exploited.
+
+--- TABLES ---
+● Marketing and Communication: To send promotional materials, newsletters,
+and updates related to our products or services (with an option to opt-out).
+● Contractual Obligations: To fulfill our contractual commitments with customers,
+vendors, or partners.
+● Legal Compliance: To meet legal and regulatory requirements, including
+financial reporting, audits, and anti-money laundering regulations.
+● Security and Fraud Prevention: To detect, prevent, and mitigate fraud or
+security risks, ensuring the overall security of our services.
+
+These comprehensive protective measures are continuously evaluated and enhanced
+to adapt to evolving threats and technological advancements, ensuring that our security
+posture remains robust against emerging risks while maintaining compliance with global
+security standards and best practices.
+8. Sharing and Disclosure of Personal Data
+Your personal data may be shared under the following circumstances:
+● Service Providers: With third-party providers that assist in delivering our
+services (e.g., cloud hosting, payment processing) under strict data processing
+agreements.
+● Legal Compliance: When required by law, regulation, or legal process (e.g.,
+court order or government request).
+● Business Transactions: In the event of a merger, acquisition, or sale of the
+business, personal data may be transferred as part of the transaction.
+Note: We do not sell your personal data to third parties.
+9. International Data Transfers
+DanfeCorp operates globally, and your personal data may be transferred to and
+processed in countries other than your own. In such cases, we ensure that appropriate
+safeguards are in place, such as standard contractual clauses or equivalent
+mechanisms, to protect your data.
+10. Your Rights as a Data Subject
+11. Data Retention
+Personal data is retained only as long as necessary to fulfill the purposes for which it
+was collected, unless a longer retention period is required or permitted by law. Once
+personal data is no longer needed, it will be securely deleted or anonymized.
+12. Cookies and Tracking Technologies
+We use cookies and similar technologies to enhance your experience on our services.
+These tools enable us to analyze website traffic, provide personalized content, and
+track user interactions. You can control cookie usage through your browser settings or
+our cookie management tools. For additional details, please refer to our [Cookie Policy].
+13. Contact Information
+If you have any questions, concerns, or requests related to this Data Privacy Policy or
+wish to exercise your rights under applicable data protection laws, please contact:
+DanfeCorp Data Protection Officer (DPO)
+Email: privacy@danfecorp.com
+Address: Kathmandu, Nepal
+14. Changes to This Privacy Policy
+DanfeCorp reserves the right to update this Data Privacy Policy as needed. Any
+changes will be posted on our website, and significant updates will be communicated
+where required. The revised policy will be effective as of the posted date.
+This policy document supersedes all previous data privacy guidelines and becomes
+effective as of the date specified above.
+
+--- TABLES ---
+If you have any questions, concerns, or requests related to this Data Privacy Policy or
+wish to exercise your rights under applicable data protection laws, please contact:
+DanfeCorp Data Protection Officer (DPO)
+Email: privacy@danfecorp.com
+Address: Kathmandu, Nepal
+

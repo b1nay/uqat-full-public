@@ -1,0 +1,59 @@
+Third-Party Vendor Management Policy
+Third-Party Vendor Management Policy
+Approved by Signature Effective Date
+Security Team Official Security Team 03/11/2025
+Approval
+1. Purpose
+This policy establishes a structured framework for managing third-party vendors,
+ensuring that they meet DanfeCorp's security, compliance, and operational
+requirements. It aims to mitigate risks associated with third-party relationships while
+safeguarding organizational assets and data.
+2. Scope
+This policy applies to all third-party vendors, suppliers, service providers, contractors,
+and partners accessing DanfeCorp's information, systems, networks, or facilities. It also
+applies to all employees and business units involved in vendor selection, onboarding,
+and management.
+3. Roles and Responsibilities
+4. Vendor Classification and Risk Assessment
+All third-party vendors must undergo a classification and risk assessment process based
+on their level of access to DanfeCorp's data, systems, and operations:
+
+--- TABLES ---
+Approved by	Signature	Effective Date
+Security Team	Official Security Team
+Approval	03/11/2025
+
+Risk assessments include:
+● Evaluation of the vendor's security controls and policies.
+● Review of regulatory compliance status and industry certifications.
+● Assessment of financial stability and operational resilience.
+● Examination of past security incidents or breaches.
+5. Vendor Onboarding and Due Diligence
+Before engaging with a vendor, DanfeCorp requires:
+● Completion of a security questionnaire and comprehensive risk assessment.
+● Review of independent security audits (e.g., penetration tests, certifications).
+● Background checks and financial stability analysis.
+● Signing of contracts containing security, confidentiality, and compliance clauses.
+● Approval from both the Vendor Management and Security Teams.
+6. Contractual and Compliance Requirements
+All vendor contracts must include the following elements:
+7. Ongoing Monitoring and Review
+● Annual Security Reviews: High-risk and critical vendors must undergo annual
+security assessments.
+● Periodic Risk Assessments: Vendors are periodically reassessed in light of emerging
+threats or business changes.
+● Performance Monitoring: Regular reviews of SLAs and compliance metrics.
+● Security Incident Reporting: Vendors must immediately report any security breaches
+and cooperate with investigations.
+8. Vendor Offboarding and Termination
+When terminating a vendor relationship, DanfeCorp requires:
+● Confirmation of data return or secure deletion.
+● Revocation of system and network access.
+● A final security assessment to ensure no residual risks remain.
+● Proper contract closure and documentation of offboarding activities.
+9. Policy Review and Updates
+This policy shall be reviewed and updated annually or upon significant changes to
+DanfeCorp's vendor management processes, regulatory requirements, or the security
+landscape. The Security Team must approve all updates.
+For questions or clarifications regarding this policy, contact the Security Team via secure
+channels only.

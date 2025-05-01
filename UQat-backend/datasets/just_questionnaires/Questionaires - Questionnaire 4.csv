@@ -1,0 +1,90 @@
+Questions
+Do you have an acceptable use policy that requires annual attestation?
+Do you have properly defined roles and responsibilities within the organization?
+Do you adhere to the principle of least privilege for access? 
+"Do you have a defined procedure for rules management in relation to role provisioning, deprovisioning and recertification?"
+Do you secure access with lock & key to GQG sensitive data (as defined by your data classification matrix) in hard copy?
+Do you perform Security Access Reviews at least quarterly? 
+Do you restrict remote maintenance to authorized users?
+Do you have the capability to provide audit trails on activity related to unauthorized access to GQG Data?
+"Do you perform network security testing? 
+"
+"Is all network traffic over public networks to the production infrastructure sent over cryptographically sound encrypted connections? If there are plaintext connections, detail what is sent unencrypted?"
+Is the production network segmented into different zones based on security levels?
+"Do you have firewalls and firewall policies in place? 
+Do you review firewall policies at least anually?"
+Do you have a process to implement and maintain content filters to monitor connections to the Internet?
+Do you perform cybersecurity tabletop exercises at least annually?
+"Does your information security team perform risk assessments at least anually? 
+
+"
+"When performing risk assessments, is there a formal process to report such material to clients if there's a severe threat to the confidentiality, integrity or availability of client data and/or services?
+"
+"Do you maintain asset inventory?
+"
+Do you use a tool for asset discovery to maintain a proper listing of all internal and external devices connecting to your network?
+Do your endpoints have proper configurations in place to prevent the connection of untrusted removable media devices ?
+Is there a process for securely disposing of paper and other media?
+Are all endpoint laptops that connect directly to production networks centrally managed?
+Do all endpoint laptops have full disk encryption?
+Do all endpoints have malware protection software?
+Do all endpoints have an idle time screen lock policy?
+Is there an alerting process for confirmed or suspected information security incidents and non-compliance?
+Do you have a process to detect anomalous activity and events within the environment?
+Do you have formally defined criteria for notifying a client during an incident that might impact the security of their data or systems?
+Do you have a formalized Security Incident Response Program?
+Do you have a formal IR team?
+"As a part of your incident response framework, do you perform lessons learned?"
+"Do you have a Business Continuity, Disaster Recovery program?
+Do you test your Business Continuity, Disaster Recovery program at least annually?"
+"Do you review and, where necessary, update your Business Continuity, Disaster Recovery program at least annually?"
+Do you have systems in place to mitigate classes of web application vulnerabilities?
+Do you have a process for infrastructure/enterprise vulnerability management?
+"Do you have a patch management process to keep devices used to access Confidential information and IT systems up-to-date with security updates?
+Establish a scope for the Policy and Procedures policy"
+Do you have a documented procedure for granting Privileged access to users?
+Do you have controls to prevent malicious software from being downloaded by users?
+Do you have proper change management procedures in place?
+Is all access to GQG data logged?
+Do you have a process to monitor for CERT notifications?
+Do you log and alert on relevant security events?
+Are local admin privileges removed from all endpoint users?
+Is there a policy and/or technical control in place for monitoring unauthorized software downloads & installation in the environment?
+Do you have a security operations team or personnel to establish log monitoring and incident response triage if an event occurs?
+Do you require all employees take security awareness training at least anually?
+Do you have a program in place to test employee security awareness at least anually?
+Are contractors required to take the same security awareness training as full time employees?
+Do you have focused training specific to users with privileged accounts & data?
+"Is there a policy or control in place that prevents vendors or employees from using unauthorized personal instant messaging services, personal email accounts, and personal applications on company managed devices with access to GQG data? If no, please explain which of the controls is not being met."
+"Is there a training process in place to make employees aware of being discreet when discussing Confidential information so you cannot be overheard and do not share Confidential information online, including using the social media, external social networks instant messaging or blogging sites?"
+Do you use configuration management to protect client data?
+Do you have controls in place to limit data exfiltration from production endpoint devices?
+Do you have a documented process to handle Confidential information in accordance with its classification and documented handling procedures?
+Do you have a data classification policy?
+"Other than when performed by persons who have access rights to GQG data, do you have logical data segmentation in place to ensure that GQG data is not tested unless notified?"
+Do you encrypt data when sharing or emailing Confidential information externally?
+"Do you encrypt customer data for each type of system on which it may reside - local data center, cloud services, and/or end points? If no, please explain on which systems customer data is not encrypted."
+Do you encrypt GQG data at rest?
+Do you encrypt GQG data in Transit?
+Is data on removable media that's used to handle Confidential information both hardware encrypted and password protected?
+"Do you have safeguards to protect employees before sending emails containing Confidential information, that all the recipients are authorized to receive the Confidential information?"
+Do you have a documented password policy?
+Are users required to rotate passwords at least every 120 days?
+"Do you have a process to keep users, passwords and PINs for IT systems and devices, confidential and protect them from unauthorized access?"
+Do you test password strength through password cracking activities or other methods of auditing passwords for strength/efficacy?
+Do you utilize single sign (SSO) on for internal use?
+Do you support SSO/SAML for customer access?
+Do you require multi-factor authentication (MFA) for employee user authentication to access your network remotely?
+Do you require MFA for administration of your production systems?
+Do you have an established Secure Development Lifecycle (SDLC) policy?
+Do you have multiple environments for the services provided to GQG?
+"Do employees/contractors have ability to remotely connect to your production systems? If no, please explain how production systems are effectively managed without remote access."
+Test the script to ensure it is functioning correctly.
+Do you perform application security testing?
+Do you have a secure backup process that includes restoration of assets in case of physical or technical incidents?
+Do you have an individual with overall responsibility for information security?
+"Do you have a formal Information Security Program (InfoSec SP) in place?
+"
+Do you review your Information Security Policies at least anually?
+Do you have a Information security risk management program (InfoSec RMP)?
+Do you have at least an annual review process of ALL information security controls?

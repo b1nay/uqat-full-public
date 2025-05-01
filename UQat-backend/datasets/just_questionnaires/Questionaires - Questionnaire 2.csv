@@ -1,0 +1,116 @@
+Questions
+"Has your company identified, documented and implemented guidelines pertaining to the acceptable use of client information and of assets associated with client information and information processing?"
+Does your company segregate conflicting duties and responsibilities to prevent unauthorised or unintended use of client related data and assets?
+"Has your company documented, implemented, and reviewed an access control policy based on business and information security requirements?"
+Does your policy limit user access to only those networks and network services that the user has been specifically authorised to use?
+Has your company established a formal user registration and de-registration process that governs the assignment and revocation of access rights?
+Has your company established a formal user access provisioning process that governs the assignment and revocation of access rights for all user types to all systems and services?
+Does your company ensure that user access rights are regularly reviewed by asset owners?
+"Does your company remove the access rights of all employees and external users to client related information and information processing facilities upon termination of employment, contract, agreement, or adjust access rights when changes occur?"
+Does your company restrict access to client related information and application system functions will be restricted in accordance with the access policy?
+Does your company control access to systems and applications by a secure log-on procedure when required by the access control policy?
+Does your company restrict and tightly control the use of utility programs that might be capable of overriding system and application controls?
+Does your company restrict access to program source code?
+Does your company ensure that the clocks of all relevant information processing systems are synchronised to a single reference time source?
+Does your company manage and control the networks you utilise in order to ensure information in systems and applications are protected?
+"Does your company identify security mechanisms, service levels, and management requirements of all network services and include this information in network service agreements, whether these services are provided in-house or outsourced?"
+"Does your company segregate groups of information services, users and information systems on networks?"
+"Does your company take necessary measures to ensure information involved in application services passing over public networks is protected from fraudulent activity, contract dispute and unauthorised disclosure and modification?"
+Does your company maintain documentation on operating procedures and make it available to all users who need the documentation?
+Has your company implemented a policy and supporting security measures to manage the risks introduced by using mobile devices that have access to client data?
+"Does your company identify, catalogue and keep inventory of its assets associated with information and information processing facilities?"
+Does your company own the assets maintained in the inventory?
+"Has your company established a requirement that all personnel and external parties must return all of the company's assets in their possession immediately upon termination of their employment, contract or agreement?"
+Has your company developed and implemented a process for handling assets that aligns with the EBA Guidelines on ICT and security risk management?
+Has your company developed and implemented a process for the management of removable media that aligns with the EBA Guidelines on ICT and security risk management?
+Has your company developed and implemented formal procedures for the secure disposal of media when it is no longer required?
+"Has your company developed and implemented formal procedures to protect media containing information against unauthorised access, misuse or corruption during transportation?"
+Are all assets clearly identified and recorded in an up-to-date inventory/register?
+"Does your company remove or security overwrite storage media on equipment prior to disposal or re-use, and verify that the equipment no longer contains any sensitive data and licensed software?"
+Does your company take measures to ensure personnel properly protect unattended equipment?
+Has your company implemented procedures to control the installation of software on operational systems?
+"Does your company conduct background checks on all new hires in accordance with applicable laws, regulations and ethics, and are these background checks sufficient for the perceived risks of each new hire's business requirements and the client information to be accessed?"
+Does your company ensure employee and contractor agreements state the individual's and the company's responsibilities for information security?
+Does management require all personnel and contractors to implement information security according to the policies and procedures defined by your company?
+Does your company have and communicate to the company a formal disciplinary process to take action against personnel who commit an information security breach?
+"Does your company define, communicate, and enforce information security responsibilities and duties that remain valid after change in employment or termination of employment occur?"
+Has your company established and implemented rules governing the installation of software by users?
+"Has your company defined management responsibilities and procedures to ensure timely, adequate and orderly response to information security incidents?"
+Are company information security events reported as quickly as possible through appropriate management channels?
+Does your company require employees and contractors who use your information systems and services to note and report any observed or suspected information security weaknesses in systems or services?
+Does your company assess information security events and determine if they should be classified as information security incidents?
+Does your company respond to information security incidents in compliance with documented procedures?
+Does your company use knowledge attained from evaluating and resolving information security incidents to reduce the likelihood or impact of future incidents?
+"Has your company established and implemented processes for the identification, collection, acquisition and preservation of information that can serve as evidence?"
+"Has your company established its requirements for information security and the continuity of information security management in adverse situations, such as a crisis or disaster?"
+Does your company plan for audit requirements and activities involving verification of operational systems in a way that minimises disruptions to business processes?
+"Has your company established, documented, implemented and maintained processes, procedures and controls to ensure the required level of continuity for information security during an adverse situation?"
+Does your company regularly verify that implemented information security continuity controls are valid and will be effective during adverse situations?
+Does your company ensure information processing facilities are implemented with redundancy sufficient to meet availability requirements?
+"Does your company gather information pertaining to technical vulnerabilities of information systems and the company's exposure to such vulnerabilities in a timely fashion, ensure appropriate measures are taken to address the associated risk?"
+"Has your company established acceptance testing programs and related criteria for new information systems, upgrades and new versions?"
+Does your company restrict and control the allocation and use of privileged user access rights?
+"Has your company implemented procedures to ensure compliance with legislative, regulatory and contractual requirements related to intellectual property rights and use of proprietary software products?"
+"Does your company protect records from loss, destruction, falsification, unauthorised access and unauthorised release, in accordance with legislatory, regulatory, contractual and business requirements?"
+Does your company ensure privacy and protection of personally identifiable information in compliance with applicable legislation and regulations?
+"Does your company use cryptographics in compliance with all relevant agreements, legislation and regulations?"
+"Has your company implemented detection, prevention and recovery controls to protect against malware, in addition to proper user education and awareness on malware prevention?"
+"Does your company control changes to the company, business processes, information processing facilities and systems that affect information security?"
+"Does your company separate development, testing, and operational environments in an effort to reduce the risks of unauthorised access or changes to the production environment?"
+Does your company use formal change procedures to control changes to systems within the development lifecycle?
+Does your company review and test business-critical applications to ensure there is no negative impact on company operations or security when operating platforms are changed?
+"Does your company strictly control all changes to software packages, as well as discourage and limit modifications so that only necessary changes are made?"
+Is your company's approach to managing information security and its implementation independently reviewed independently on a regular basis or when significant changes occur?
+Does your company ensure system performance requirements are met by monitoring and tuning use of resources and forecasting future capacity requirements?
+"Does your company produce, keep and regularly review event logs recording user activities, exceptions, faults and information security events?"
+Does your company protect logging facilities and log information from tampering and unauthorised access?
+Does your company protect and regularly review logs of system administrator and system operator activities?
+Does your company require that all personnel and contractors receive information security awareness education and training as well as regular updates on policies and procedures that are relevant to their position in the company?
+"Has your company implemented a policy and supporting security measures to protect client information accessed, processed or stored at remote working sites?"
+"Does your company have formal transfer policies, procedures and steps to protect the transfer of client related information through the use of all types of communication facilities?"
+Does your company ensure the proper protection of client-related information involved in electronic messaging?
+"Does your company identify, regularly review and document requirements for confidentiality or non-disclosure agreements that reflect your company's need for the protection of client related information?"
+"Does your company safeguard information utilised in application service transactions to prevent incomplete transmission, mis-routing, unauthorised message alteration, unauthorised disclosure, unauthorised message duplication or replay?"
+"Does your company carefully select, safeguard and control test data?"
+"Does your company classify information based on the following: legal requirements, value, criticality, and sensitivity to unauthorised disclosure or modification?"
+Has your company developed and implemented a process for labeling information that aligns with the EBA Guidelines on ICT and security risk management?
+Has your company developed and implemented a policy on the use of cryptographic controls for protection of information?
+"Has your company developed and implemented a policy on the use, protection and lifetime of cryptographic keys?"
+Does your company have a formal management process that controls the allocation of secret authentication information?
+Does your company require users to follow the company's practices which govern the use of secret authentication information?
+Does your company ensure that password management systems are interactive and require quality passwords?
+"Does your company clearly identify, document and update all pertinent legislative statutory, regulatory, contractual requirements and the company's methods for meeting each requirement, for each information system and the company?"
+"Do company managers regularly review information processing and procedures within their area of responsibility to ensure compliance with the appropriate security policies, standards and any other security requirements?"
+Does your company regularly review information systems to ensure compliance with the organisation’s information security policies and standards?
+"Does your company establish, document, and maintain principles for engineering secure systems and apply these principles to all information system implementations?"
+Does your company establish and safeguard secure environments utilised for system development and integration efforts across the entire system development lifecycle?
+Does your company test security functionality during development?
+Do you develop and maintain secure systems and applications?
+Has your company defined and implemented security perimeters to protect client related information processing facilities and areas containing sensitive or critical information?
+Has your company established adequate entry controls at secure areas to ensure that only authorised personnel are allowed access?
+"Has your company created and enforced physical security measures for offices, rooms and facilities?"
+"Has your company created and enforced physical protection against natural disasters, malicious attack or accidents?"
+Has your company created and enforced procedures for working in secure areas?
+"Does your company control and, if possible, isolate from information processing facilities, access points where unauthorised persons could enter the premises?"
+"Does your company protect equipment in order to reduce risks from environmental threats and hasards, as well as opportunities for unauthorised access?"
+Does your company protect equipment from power failures or other disruptions caused by failures in supporting utilities?
+"Does your company protect power and telecommunications cabling carrying data or supporting information services from interception, interference or damage?"
+Does your company correctly care for and maintain equipment in order to ensure its availability and integrity?
+"Does your company prevent removal of equipment, information and software from approved areas without prior authorisation?"
+Does your company apply security to assets that are used off-site and does that security contemplate the different risks associated with working with company assets off-site?
+Has your company implemented a clear desk policy for papers and removable storage media as well as a clear screen policy for information processing facilities?
+"Does your company create and regularly test backup copies of information, software, and systems as a part of an agreed upon backup policy?"
+Does your company address the secure transfer of business information when detailing terms of agreements with external parties?
+Does your company oversee and monitor the activity of outsourced system development projects?
+Does your company and its suppliers agree upon and document information security requirements that are designed to reduce the risks associated with supplier's access to the company's assets?
+"Does your company agree to information security requirements with every supplier that may: access, process, store, or communicate the company's information or provide IT infrastructure components for your company's information?"
+Do your company's agreements with suppliers contain requirements to address the information security risks associated with information and communications technology services and product supply chain?
+"Does your company regularly monitor, review and audit the service delivery of its suppliers?"
+"Does your company manage changes to the provision of services by suppliers, including maintaining and improving existing information security policies, while also considering the criticality of the relevant business information, system and processes and re-assessment of risks?"
+"Does your company define, approve, and publish policies for information security that are communicated to all personnel and pertinent external parties?"
+"Does your company regularly review information security policies, including when significant changes occur, in order to ensure the policies remain suitable, adequate and effective?"
+Does your company define and assign all information security responsibilities as part of its efforts to manage the implementation and operation of information security?
+Does your company maintain appropriate contacts with relevant authorities as part of its efforts to manage the implementation and operation of information security?
+Does your company maintain appropriate contacts with professional associations or security forums or groups as part of their efforts to manage the implementation and operation of information security?
+"Does your company address information security in project management, regardless of the type of project, as part of its efforts to manage the implementation and operation of information security reallting to client data?"
+Does your company include the requirements related to information security when detailing requirements for new information systems or enhancements to existing information systems?
